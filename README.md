@@ -1,5 +1,5 @@
 👋 Hi!
-- 🐖 I’m fluffy bacon, but I answer to fluffy 🐖
+- 🐖 I’m Baily Hohman, but I answer to fluffy 🐖
 - 👨🏼‍🔬 I got my degree in Biotechnology but got tired of lab work
 - 👀 I’m interested in 3d printing, bioengineering, web-development, and game development
 - 🌱 I’m currently learning javascript for web development
